@@ -1,41 +1,21 @@
-# DSA Journey 2026 🚀
+# DSA Journey 2026
 
-Welcome to my DSA learning repository. This repository contains my daily Data Structures and Algorithms practice in Java.
+Daily Data Structures and Algorithms practice in Java.
 
 ## Language
-- Java ☕
-
-## Goal
-- Solve 3 DSA problems every day.
-- Improve problem-solving skills.
-- Prepare for coding interviews.
-- Maintain daily GitHub activity.
+- Java
 
 ## Progress
 
-### Day 1 - Arrays ✅
-Problems Solved:
-1. Maximum Element in Array
-2. Reverse Array
-3. Sum of Array
+### Day 1
+- Maximum Element in Array
+- Reverse Array
+- Sum of Array
+
+### Day 2
+- Minimum Element in Array
+- Count Even and Odd Numbers
+- Second Largest Element in Array
 
 ---
-
-## Folder Structure
-
-```
-DSA-Journey-2026
-│
-├── Arrays
-│   ├── MaxElement.java
-│   ├── ReverseArray.java
-│   └── SumArray.java
-│
-└── README.md
-```
-
----
-
-## Author
-
-**Shwetha V **
+**Goal:** Solve 3 DSA problems every day and improve problem-solving skills.
