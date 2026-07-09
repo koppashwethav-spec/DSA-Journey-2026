@@ -7,7 +7,7 @@ Daily Data Structures and Algorithms practice in Java.
 
 ## Arrays
 ### Day 1
-- Maximum Element in Array
+- Maximum Element in Array 
 - Reverse Array
 - Sum of Array
 ### Day 2
