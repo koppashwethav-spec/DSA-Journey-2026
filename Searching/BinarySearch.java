@@ -25,3 +25,4 @@ public class BinarySearch
       } 
    }
 }
+// Searching practice
