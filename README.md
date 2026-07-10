@@ -9,7 +9,7 @@ Daily Data Structures and Algorithms practice in Java.
 ### Day 1
 - Maximum Element in Array 
 - Reverse Array
-- Sum of Array
+- Sum of Array 
 ### Day 2
 - Minimum Element in Array
 - Count Even and Odd Numbers
