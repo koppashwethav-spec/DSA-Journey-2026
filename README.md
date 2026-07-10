@@ -46,6 +46,10 @@ Daily Data Structures and Algorithms practice in Java.
 - Print Numbers from 1 to N
 - Print Numbers from N to 1
 - Factorial Using Recursion
+### Day 9
+- Sum of First N Numbers
+- Fibonacci Using Recursion
+- Power of a Number
 
 ---
 **Goal:** Solve 3 DSA problems every day and improve problem-solving skills.
