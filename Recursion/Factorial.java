@@ -16,3 +16,4 @@ public class Factorial
         System.out.println("Factorial of 5 = " + Fact(n));
     }
 }
+// Recursion practice
