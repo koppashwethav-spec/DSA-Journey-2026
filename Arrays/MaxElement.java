@@ -29,3 +29,5 @@ public class MaxElement
         sc.close();
     }
 }
+
+// Arrays practice
