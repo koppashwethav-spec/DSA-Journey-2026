@@ -50,6 +50,10 @@ Daily Data Structures and Algorithms practice in Java.
 - Sum of First N Numbers
 - Fibonacci Using Recursion
 - Power of a Number
+### Day 10
+- Reverse String Using Recursion
+- Palindrome Using Recursion
+- Sum of Array Using Recursion
 
 ---
 **Goal:** Solve 3 DSA problems every day and improve problem-solving skills.
