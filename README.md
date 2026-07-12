@@ -1,15 +1,15 @@
-# DSA Journey 2026 🚀
+# DSA Journey 2026
 
 Daily Data Structures and Algorithms practice in Java.
 
 ## Language
 - Java
 
-## Arrays
+### Arrays:
 ### Day 1
-- Maximum Element in Array 
+- Maximum Element in Array
 - Reverse Array
-- Sum of Array 
+- Sum of Array
 ### Day 2
 - Minimum Element in Array
 - Count Even and Odd Numbers
@@ -19,41 +19,48 @@ Daily Data Structures and Algorithms practice in Java.
 - Check if Array is Sorted
 - Largest and Smallest Element
 
-## Strings
+### Strings:
 ### Day 4
 - Reverse String
 - Palindrome String
 - Count Vowels and Consonants
 ### Day 5
-- Count Words in a String
-- Check Anagram
-- Count Frequency of Each Character
+- Count Words
+- Anagram
+- Character Frequency
 
-## Searching
+### Searching:
 ### Day 6
 - Binary Search
-- First Occurrence of an Element
-- Last Occurrence of an Element
+- First Occurrence
+- Last Occurrence
 
-## Sorting
+### Sorting:
 ### Day 7
 - Bubble Sort
 - Selection Sort
 - Insertion Sort
 
-## Recursion
+### Recursion:
 ### Day 8
-- Print Numbers from 1 to N
-- Print Numbers from N to 1
-- Factorial Using Recursion
+- Print 1 to N
+- Print N to 1
+- Factorial
 ### Day 9
 - Sum of First N Numbers
-- Fibonacci Using Recursion
+- Fibonacci
 - Power of a Number
 ### Day 10
 - Reverse String Using Recursion
 - Palindrome Using Recursion
 - Sum of Array Using Recursion
 
+### Linked List:
+### Day 11
+- Create Linked List
+- Traverse Linked List
+- Count Number of Nodes
+
 ---
+
 **Goal:** Solve 3 DSA problems every day and improve problem-solving skills.
