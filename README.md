@@ -60,6 +60,10 @@ Daily Data Structures and Algorithms practice in Java.
 - Create Linked List
 - Traverse Linked List
 - Count Number of Nodes
+### Day 12
+- Insert at Beginning
+- Insert at End
+- Insert at Specific Position
 
 ---
 
