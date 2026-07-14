@@ -64,6 +64,10 @@ Daily Data Structures and Algorithms practice in Java.
 - Insert at Beginning
 - Insert at End
 - Insert at Specific Position
+### Day 13
+- Delete First Node
+- Delete Last Node
+- Delete Node by Value
 
 ---
 
