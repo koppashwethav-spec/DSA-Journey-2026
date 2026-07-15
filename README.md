@@ -68,6 +68,10 @@ Daily Data Structures and Algorithms practice in Java.
 - Delete First Node
 - Delete Last Node
 - Delete Node by Value
+### Day 14
+- Search an Element
+- Reverse a Linked List
+- Find the Middle Node
 
 ---
 
