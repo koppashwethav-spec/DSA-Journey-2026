@@ -73,6 +73,12 @@ Daily Data Structures and Algorithms practice in Java.
 - Reverse a Linked List
 - Find the Middle Node
 
+### Stack:
+### Day 15
+- Stack using Array
+- Push Operation
+- Pop Operation
+
 ---
 
 **Goal:** Solve 3 DSA problems every day and improve problem-solving skills.
