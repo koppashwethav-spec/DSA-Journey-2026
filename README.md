@@ -78,6 +78,10 @@ Daily Data Structures and Algorithms practice in Java.
 - Stack using Array
 - Push Operation
 - Pop Operation
+### Day 16
+- Peek Operation
+- Check Stack is Empty
+- Balanced Parentheses
 
 ---
 
