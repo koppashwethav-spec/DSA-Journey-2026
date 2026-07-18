@@ -83,6 +83,12 @@ Daily Data Structures and Algorithms practice in Java.
 - Check Stack is Empty
 - Balanced Parentheses
 
+### Queue:
+### Day 17
+- Queue using Array
+- Enqueue Operation
+- Dequeue Operation
+
 ---
 
 **Goal:** Solve 3 DSA problems every day and improve problem-solving skills.
