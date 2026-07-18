@@ -4,7 +4,7 @@ Daily Data Structures and Algorithms practice in Java.
 
 ## Language
 - Java
-
+- 
 ### Arrays:
 ### Day 1
 - Maximum Element in Array
