@@ -88,6 +88,10 @@ Daily Data Structures and Algorithms practice in Java.
 - Queue using Array
 - Enqueue Operation
 - Dequeue Operation
+### Day 18
+- Peek Operation
+- Check Queue is Empty
+- Circular Queue
 
 ---
 
