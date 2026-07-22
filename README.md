@@ -96,12 +96,14 @@ Daily Data Structures and Algorithms practice in Java.
 | Inorder Traversal |
 
 ---
+
 ## 🎯 Goal
 
 - ✅ Solve **3 DSA problems every day**
 - ✅ Improve problem-solving skills
 - ✅ Prepare for coding interviews
 - ✅ Stay consistent with daily coding practice
+
 ---
 
 ⭐ **If you found this repository helpful, don't forget to give it a Star!**
