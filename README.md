@@ -89,11 +89,11 @@ Daily Data Structures and Algorithms practice in Java.
 
 ## 🌳 Trees
 
-| Day 19 |
-|---------|
-| Create Binary Tree |
-| Preorder Traversal |
-| Inorder Traversal |
+| Day 19 | Day 20 |
+|---------|---------|
+| Create Binary Tree | Postorder Traversal |
+| Preorder Traversal | Level Order Traversal |
+| Inorder Traversal | Height of Binary Tree |
 
 ---
 
