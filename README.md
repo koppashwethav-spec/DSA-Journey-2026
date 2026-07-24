@@ -9,7 +9,7 @@ Daily Data Structures and Algorithms practice in Java.
 
 ## 📊 Arrays
 
-| Day 1 | Day 2 | Day 3 |
+| Day 1 | Day 2 | Day 3 | 
 |--------|--------|--------|
 | Maximum Element in Array | Minimum Element in Array | Linear Search |
 | Reverse Array | Count Even and Odd Numbers | Check if Array is Sorted |
