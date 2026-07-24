@@ -1,6 +1,6 @@
-package Tree;
+package BinarySearchTree;
 
-public class SearchBST
+public class MinMaxBST
 {
     static class Node
     {
@@ -11,18 +11,16 @@ public class SearchBST
         Node(int data)
         {
             this.data = data;
-            left = null;
-            right = null;
+            this.left = null;
+            this.right = null;
         }
     }
-
     public static Node insert(Node root, int value)
     {
         if(root == null)
         {
             return new Node(value);
         }
-
         if(value < root.data)
         {
             root.left = insert(root.left, value);
@@ -31,53 +29,37 @@ public class SearchBST
         {
             root.right = insert(root.right, value);
         }
-
         return root;
     }
-
-    public static boolean search(Node root, int key)
+    public static int findMin(Node root)
     {
-        if(root == null)
+        while(root.left != null)
         {
-            return false;
+            root = root.left;
         }
-
-        if(root.data == key)
-        {
-            return true;
-        }
-
-        if(key < root.data)
-        {
-            return search(root.left, key);
-        }
-        else
-        {
-            return search(root.right, key);
-        }
+        return root.data;
     }
-
-    public static void main(String[] args)
+    public static int findMax(Node root)
+    {
+        while(root.right != null)
+        {
+            root = root.right;
+        }
+        return root.data;
+    }
+    public static void main(String[] args) 
     {
         Node root = null;
-
         root = insert(root, 50);
-        root = insert(root, 30);
-        root = insert(root, 70);
+        root = insert(root, 30);  
+         root = insert(root, 70);
         root = insert(root, 20);
         root = insert(root, 40);
         root = insert(root, 60);
         root = insert(root, 80);
 
-        int key = 60;
-
-        if(search(root, key))
-        {
-            System.out.println("Element Found");
-        }
-        else
-        {
-            System.out.println("Element Not Found");
-        }
+        System.out.println("Minimum = " + findMin(root));
+        System.out.println("Maximum = " + findMax(root));
     }
 }
+

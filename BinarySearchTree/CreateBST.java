@@ -1,4 +1,4 @@
-package Tree;
+package BinarySearchTree;
 
 public class CreateBST
 {
@@ -55,3 +55,4 @@ public class CreateBST
             inordre(root);
         }
 }
+

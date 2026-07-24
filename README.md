@@ -95,6 +95,14 @@ Daily Data Structures and Algorithms practice in Java.
 | Preorder Traversal | Level Order Traversal | Count Leaf Nodes |
 | Inorder Traversal | Height of Binary Tree | Search an Element |
 
+## 🌳 Binary Search Tree (BST)
+
+| Day 22 |
+|---------|
+| Create BST |
+| Search in BST |
+| Find Minimum and Maximum |
+
 ---
 
 ## 🎯 Goal
