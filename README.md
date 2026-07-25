@@ -97,11 +97,11 @@ Daily Data Structures and Algorithms practice in Java.
 
 ## 🌳 Binary Search Tree (BST)
 
-| Day 22 |
-|---------|
-| Create BST |
-| Search in BST |
-| Find Minimum and Maximum |
+| Day 22 | Day 23 |
+|---------|---------|
+| Create BST | Delete Node in BST |
+| Search in BST | Find Inorder Successor |
+| Find Minimum and Maximum | Validate BST |
 
 ---
 
