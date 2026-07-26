@@ -95,6 +95,8 @@ Daily Data Structures and Algorithms practice in Java.
 | Preorder Traversal | Level Order Traversal | Count Leaf Nodes |
 | Inorder Traversal | Height of Binary Tree | Search an Element |
 
+---
+
 ## 🌳 Binary Search Tree (BST)
 
 | Day 22 | Day 23 |
@@ -102,6 +104,14 @@ Daily Data Structures and Algorithms practice in Java.
 | Create BST | Delete Node in BST |
 | Search in BST | Find Inorder Successor |
 | Find Minimum and Maximum | Validate BST |
+
+---
+
+### Heap:
+### Day 24
+- Max Heap Implementation
+- Min Heap Implementation
+- Delete (Extract Max) from Max Heap
 
 ---
 
