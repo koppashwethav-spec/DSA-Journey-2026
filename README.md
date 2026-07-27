@@ -87,13 +87,13 @@ Daily **Data Structures and Algorithms** practice in **Java**.
 
 ---
 
-# 🌳 Trees
+# 🌳 Binary Tree
 
 | 📅 Day 19 | 📅 Day 20 | 📅 Day 21 |
 |-----------|-----------|-----------|
-| Create Binary Tree | Height of Binary Tree | Binary Search Tree (BST) |
-| Preorder Traversal | Count Total Nodes | Search in BST |
-| Inorder Traversal | Count Leaf Nodes | Find Minimum & Maximum |
+| Create Binary Tree | Height of Binary Tree | Preorder Traversal |
+| Inorder Traversal | Count Total Nodes | Postorder Traversal |
+| Level Order Traversal | Count Leaf Nodes | Search in Binary Tree |
 
 ---
 
@@ -117,13 +117,34 @@ Daily **Data Structures and Algorithms** practice in **Java**.
 
 ---
 
-## 🎯 Goal
+# 🌐 Graph
 
-✅ Solve **3 DSA Problems Every Day**
-✅ Strengthen Problem Solving Skills
-✅ Crack Coding Interviews
-✅ Build Consistency
+| 📅 Day 25 |
+|-----------|
+| Graph using Adjacency Matrix |
+| Graph using Adjacency List |
+| Breadth First Search (BFS) |
 
 ---
 
-⭐ **If you like this repository, don't forget to Star it!**
+# 🎯 Goal
+
+- ✅ Solve **3 DSA Problems Every Day**
+- ✅ Improve Problem Solving Skills
+- ✅ Prepare for Coding Interviews
+- ✅ Build Strong DSA Fundamentals
+- ✅ Stay Consistent Every Day
+
+---
+
+## 🌟 Repository Highlights
+
+- ☕ Java Solutions
+- 📝 Beginner Friendly Code
+- 📖 Easy-to-Understand Logic
+- 🎯 Interview-Oriented Problems
+- 📅 Daily Practice Updates
+
+---
+
+# ⭐ If you find this repository helpful, don't forget to Star it!
