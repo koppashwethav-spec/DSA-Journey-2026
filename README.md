@@ -133,7 +133,6 @@ Daily **Data Structures and Algorithms** practice in **Java**.
 - ✅ Improve Problem Solving Skills
 - ✅ Prepare for Coding Interviews
 - ✅ Build Strong DSA Fundamentals
-- ✅ Stay Consistent Every Day
 
 ---
 
