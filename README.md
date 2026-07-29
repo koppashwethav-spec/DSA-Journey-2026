@@ -119,11 +119,11 @@ Daily **Data Structures and Algorithms** practice in **Java**.
 
 # 🌐 Graph
 
-| 📅 Day 25 |
-|-----------|
-| Graph using Adjacency Matrix |
-| Graph using Adjacency List |
-| Breadth First Search (BFS) |
+| 📅 Day 25 | 📅 Day 26 |
+|-----------|-----------|
+| Graph using Adjacency Matrix | Depth First Search (DFS) |
+| Graph using Adjacency List | Detect Cycle in Undirected Graph |
+| Breadth First Search (BFS) | Topological Sort |
 
 ---
 
