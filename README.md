@@ -127,6 +127,16 @@ Daily **Data Structures and Algorithms** practice in **Java**.
 
 ---
 
+# #️⃣ Hashing
+
+| 📅 Day 27 |
+|-----------|
+| HashMap Implementation |
+| Count Frequency of Elements |
+| First Non-Repeating Character |
+
+---
+
 # 🎯 Goal
 
 - ✅ Solve **3 DSA Problems Every Day**
