@@ -137,6 +137,16 @@ Daily **Data Structures and Algorithms** practice in **Java**.
 
 ---
 
+# 💰 Greedy Algorithms
+
+| 📅 Day 28 |
+|-----------|
+| Activity Selection |
+| Fractional Knapsack |
+| Coin Change |
+
+---
+
 # 🎯 Goal
 
 - ✅ Solve **3 DSA Problems Every Day**
