@@ -147,6 +147,16 @@ Daily **Data Structures and Algorithms** practice in **Java**.
 
 ---
 
+# 🔙 Backtracking
+
+| 📅 Day 29 |
+|-----------|
+| Rat in a Maze |
+| N-Queens |
+| Sudoku Solver |
+
+---
+
 # 🎯 Goal
 
 - ✅ Solve **3 DSA Problems Every Day**
