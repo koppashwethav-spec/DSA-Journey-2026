@@ -1,9 +1,9 @@
 package DynamicProgramming;
 
-public class ClimbingStairs {
-
-    public static int climbStairs(int n) {
-
+public class ClimbingStairs 
+{
+    public static int climbStairs(int n) 
+    {
         if (n <= 2)
             return n;
 
@@ -12,14 +12,16 @@ public class ClimbingStairs {
         dp[1] = 1;
         dp[2] = 2;
 
-        for (int i = 3; i <= n; i++) {
+        for (int i = 3; i <= n; i++) 
+        {
             dp[i] = dp[i - 1] + dp[i - 2];
         }
 
         return dp[n];
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
 
         int n = 5;
 
