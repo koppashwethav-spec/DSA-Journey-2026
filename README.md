@@ -166,6 +166,16 @@ Daily **Data Structures and Algorithms** practice in **Java**.
 
 ---
 
+# 🧩 Dynamic Programming
+
+| 📅 Day 30 |
+|-----------|
+| Fibonacci using DP |
+| Climbing Stairs |
+| House Robber |
+
+---
+
 ## 🌟 Repository Highlights
 
 - ☕ Java Solutions
