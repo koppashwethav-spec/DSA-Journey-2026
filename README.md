@@ -157,15 +157,6 @@ Daily **Data Structures and Algorithms** practice in **Java**.
 
 ---
 
-# 🎯 Goal
-
-- ✅ Solve **3 DSA Problems Every Day**
-- ✅ Improve Problem Solving Skills
-- ✅ Prepare for Coding Interviews
-- ✅ Build Strong DSA Fundamentals
-
----
-
 # 🧩 Dynamic Programming
 
 | 📅 Day 30 | 📅 Day 31 | 📅 Day 32 |
@@ -173,6 +164,15 @@ Daily **Data Structures and Algorithms** practice in **Java**.
 | Fibonacci using DP | Coin Change | Longest Increasing Subsequence (LIS) |
 | Climbing Stairs | 0/1 Knapsack | Edit Distance |
 | House Robber | Longest Common Subsequence | Matrix Chain Multiplication (MCM) |
+
+---
+
+# 🎯 Goal
+
+- ✅ Solve **3 DSA Problems Every Day**
+- ✅ Improve Problem Solving Skills
+- ✅ Prepare for Coding Interviews
+- ✅ Build Strong DSA Fundamentals
 
 ---
 
