@@ -168,11 +168,11 @@ Daily **Data Structures and Algorithms** practice in **Java**.
 
 # 🧩 Dynamic Programming
 
-| 📅 Day 30 | 📅 Day 31 |
-|-----------|-----------|
-| Fibonacci using DP | Coin Change |
-| Climbing Stairs | 0/1 Knapsack |
-| House Robber | Longest Common Subsequence |
+| 📅 Day 30 | 📅 Day 31 | 📅 Day 32 |
+|-----------|-----------|------------|
+| Fibonacci using DP | Coin Change | Longest Increasing Subsequence (LIS) |
+| Climbing Stairs | 0/1 Knapsack | Edit Distance |
+| House Robber | Longest Common Subsequence | Matrix Chain Multiplication (MCM) |
 
 ---
 
