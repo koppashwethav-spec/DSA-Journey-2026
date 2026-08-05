@@ -167,6 +167,16 @@ Daily **Data Structures and Algorithms** practice in **Java**.
 
 ---
 
+# 🌳 Trie
+
+| 📅 Day 33 |
+|-----------|
+| Trie Implementation |
+| Search Word in Trie |
+| StartsWith (Prefix Search) |
+
+---
+
 # 🎯 Goal
 
 - ✅ Solve **3 DSA Problems Every Day**
