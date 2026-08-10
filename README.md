@@ -177,6 +177,16 @@ Daily **Data Structures and Algorithms** practice in **Java**.
 
 ---
 
+# 🌳 Segment Tree
+
+| 📅 Day 34 |
+|----------|
+| Build Segment Tree |
+| Range Sum Query |
+| Update an Element |
+
+---
+
 # 🎯 Goal
 
 - ✅ Solve **3 DSA Problems Every Day**
