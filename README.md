@@ -119,11 +119,11 @@ Daily **Data Structures and Algorithms** practice in **Java**.
 
 # 🌐 Graph
 
-| 📅 Day 25 | 📅 Day 26 |
-|-----------|-----------|
-| Graph using Adjacency Matrix | Depth First Search (DFS) |
-| Graph using Adjacency List | Detect Cycle in Undirected Graph |
-| Breadth First Search (BFS) | Topological Sort |
+| 📅 Day 25 | 📅 Day 26 | 📅 Day 35 |
+|-----------|-----------|------------|
+| Graph using Adjacency Matrix | Depth First Search (DFS) | Dijkstra's Algorithm | 
+| Graph using Adjacency List | Detect Cycle in Undirected Graph | Bellman-Ford Algorithm |
+| Breadth First Search (BFS) | Topological Sort | Floyd-Warshall Algorithm |
 
 ---
 
