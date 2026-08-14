@@ -129,11 +129,11 @@ Daily **Data Structures and Algorithms** practice in **Java**.
 
 # #️⃣ Hashing
 
-| 📅 Day 27 |
-|-----------|
-| HashMap Implementation |
-| Count Frequency of Elements |
-| First Non-Repeating Character |
+| 📅 Day 27 | 📅 Day 36 |
+|-----------|-----------|
+| HashMap Implementation | Frequency of Elements | 
+| Count Frequency of Elements | Find Duplicate Element |
+| First Non-Repeating Character | Two Sum |
 
 ---
 
